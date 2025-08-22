@@ -1,4 +1,5 @@
-Overview:
+**Overview:**
+
 The Gesture Volume Control project enables users to adjust their computer’s audio volume using natural hand gestures—typically by measuring the distance between the thumb tip and index finger tip. When these fingers move closer, the volume decreases; when they move apart, the volume increases. Some implementations add a safety gesture—like bending the pinky finger—to apply the change only when intentionally triggered.
 Developers often present real-time feedback by overlaying a volume bar or percentage indicator on the live webcam feed, making it intuitive and interactive.
 
